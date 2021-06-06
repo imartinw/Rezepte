@@ -1,10 +1,12 @@
-# Sauerteig
+# Sauerteig-Mischbrot
+
+## Sauerteig
 
 70g Anstellgut
 70g Weizenmehl
 70g Wasser
 
-# Hauptteig
+## Hauptteig
 
 150g Weizenmehl
 150g Roggenmehl
